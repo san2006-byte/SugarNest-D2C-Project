@@ -1,7 +1,6 @@
 # SugarNest-D2C-Project
 A D2C marketing simulation project for a custom cake brand, including GTM strategy, funnel analysis, and sample social media creatives.
-
-This project simulates a direct-to-consumer marketing strategy for a custom cake brand based in Chennai.
+The project showcases a practice GTM strategy, mock funnel analysis, and a sample social media post, created for learning and portfolio-building purposes.
 
 ## Contents
   **GTM Strategy**: A structured go-to-market plan outlining positioning, channels, and KPIs.
