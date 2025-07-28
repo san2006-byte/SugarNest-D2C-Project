@@ -4,7 +4,9 @@ The project showcases a practice GTM strategy, mock funnel analysis, and a sampl
 
 ## Contents
   **GTM Strategy**: A structured go-to-market plan outlining positioning, channels, and KPIs.
+  
   **Funnel Analysis**: Excel sheet showing key conversion metrics and engagement stats.
+  
   **Instagram Mock Post**: Creative content crafted using Canva for brand awareness.
 
 ## Tools Used
